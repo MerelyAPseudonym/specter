@@ -1,6 +1,6 @@
 (def VERSION (.trim (slurp "VERSION")))
 
-(defproject com.rpl/specter VERSION
+(defproject org.clojars.jtilles/specter VERSION
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/clojurescript "0.0-3211"]
                  ]
